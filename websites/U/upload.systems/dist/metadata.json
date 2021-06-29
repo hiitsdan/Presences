@@ -4,22 +4,34 @@
     "name": "dAn",
     "id": "169516316124905473"
   },
-  "service": "pays.host",
+  "contributors": [
+    {
+      "name": "xela",
+      "id": "356827694572503051"
+    }
+  ],
+  "service": "upload.systems",
+  "altnames": [
+    "pays.host"
+  ],
   "description": {
     "en": "Custom ShareX image uploader and host",
     "nl": "Aangepaste ShareX image-uploader en host"
   },
   "url": [
-    "pays.host",
-    "beta.pays.host",
-    "status.pays.host"
+    "upload.systems",
+    "status.upload.systems",
+    "i.upload.systems",
+    "beta.upload.systems"
   ],
-  "version": "1.0.3",
-  "logo": "https://i.imgur.com/YW4nMV4.png",
-  "thumbnail": "https://i.imgur.com/qBToMIr.png",
+  "version": "2.0.0",
+  "logo": "https://i.imgur.com/W6csZyb.png",
+  "thumbnail": "https://i.imgur.com/38OjVUC.png",
   "color": "#ad6edd",
   "tags": [
     "sharex",
+    "upload",
+    "uploading",
     "pays",
     "host",
     "image",
@@ -29,7 +41,7 @@
   "settings": [
     {
       "id": "usernameHidden",
-      "title": "Hidden Username",
+      "title": "Hide Username",
       "value": false
     }
   ]
